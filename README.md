@@ -1,4 +1,7 @@
-GAME BOARD
+Monopoly Game Board
+
+By:    Yousef-Emadi  
+Idea by: Shoko84
 
 The game is played on a circular game board.
 There are 40 positions on the board, indexed from 0 to 39.
